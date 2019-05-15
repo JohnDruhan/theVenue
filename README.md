@@ -1,6 +1,8 @@
 # theVenue
 Landing Page for upcoming Music Festival 
 
+The App is Deployed on Heroku here: https://shielded-reef-39527.herokuapp.com/#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
